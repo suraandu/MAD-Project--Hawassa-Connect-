@@ -13,5 +13,8 @@ Core Logic & Services Lead: [Surafel Andualem]
 Network & API Lead: [Bereket Mulgeta]
 
 DevOps & Testing Lead: [Amanuel Tesfaye]
-Jira design board:https://hawassa-connect.atlassian.net/jira/software/projects/SCRUM/boards/1
+
+Jira design board link:https://hawassa-connect.atlassian.net/jira/software/projects/SCRUM/boards/1
+
+Figma design board link:https://www.figma.com/make/2Cd1tZBZuxYOq39WpPmivV/Upgrade-existing-design?t=q1KB3Hx5cyUNTejD-1&preview-route=%2Fcart
             
