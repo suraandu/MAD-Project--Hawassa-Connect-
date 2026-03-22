@@ -11,5 +11,6 @@ UI/UX Lead: [Dawit Belete & Asfawesen Temtem]
 Database & State Lead: [Surafel Tesema]
 Core Logic & Services Lead: [Surafel Andualem]
 Network & API Lead: [Bereket Mulgeta]
+
 DevOps & Testing Lead: [Amanuel Tesfaye]
             
